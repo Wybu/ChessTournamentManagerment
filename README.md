@@ -21,8 +21,10 @@ To get started with the project, follow these steps:
 ```bash
 cd ChessTournamentManagerment
 ```
-3. Build the Project:
+3. **Build the Project**:
 Use your preferred Java build tool (e.g., Maven, Gradle) to build the project.
 
-4. Run the Application:
+4. **Run the Application**:
 Execute the main application file to start using the system.
+ ### Notice
+ This repo is only about Update Result module, not full of features.
